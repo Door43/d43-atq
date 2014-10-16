@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[atq:home|Door43 (atq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-atq|d43-atq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-atq/archive/master.zip|d43-atq.zip]]
+
+**Recent Changes**
+{{changes>ns = atq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/atq|Ethnologue data]]
+
